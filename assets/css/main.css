@@ -1110,7 +1110,7 @@
 		}
 
 		body.is-loading #bg:before {
-			background-color: #000000;
+			background-color: #F0FFFF; /*here I can change bg color, black is 000000*/
 		}
 
 /* Wrapper */
